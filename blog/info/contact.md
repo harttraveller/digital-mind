@@ -1,7 +1,6 @@
-![[page.home.png]]
-# Home
+![[page.contact.png]]
 
-Welcome to my blog. To learn more click [[about|here]]. Feel free to [[contact|reach out]] to me with questions, feedback, or anything else.
+# Contact
 
 ## Links
 
@@ -17,4 +16,7 @@ Welcome to my blog. To learn more click [[about|here]]. Feel free to [[contact|r
 <img alt="LinkedIn" src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" style="clip-path: inset(0px 0px 0px 0px round 10px);">
 </a>
 
-## Posts
+## Form
+
+> [!ABSTRACT]- Contact Form
+> <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe_sU9ue8MXT9Vf1B4JEkXSeFM3gJ6LTC9pLA4UJebrXWS2pQ/viewform?embedded=true" width="590" height="674" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
