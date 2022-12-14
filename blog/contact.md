@@ -1,4 +1,4 @@
-
+![[page.contact.png]]
 # Contact
 
 <div align="center">

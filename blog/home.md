@@ -1,5 +1,4 @@
 ![[page.home.png]]
-
 # Home
 
 Welcome to my blog. To learn more click [[about|here]]. Feel free to [[contact|reach out]] to me with questions, feedback, or anything else.
