@@ -4,10 +4,6 @@
 
 This site is both a blog, and a traversible digital mind (or at least I intend it to be). For more info on what that means, check out [this](https://fortelabs.com/blog/basboverview/) overview. For more info on how this one is structured, visit the [GitHub](https://github.com/harttraveller/digital-mind) repository for the site.
 
-## Pages
-
-Note that each page is subject to change as I update my model of reality.
-
 ## Site Navigation
 
 [[tags|Blue links]] flip to pages. [Red links](https://www.youtube.com/watch?v=xvFZjo5PgG0) open new tabs. The site can be traversed like a non-linear book. Clicking the red `x` in the bottom left corner of a page will close that page. The table of contents on the right lists the headings in a page, and above that is a search bar that indexes page titles and headers. Finally at the bottom you will find the pages that link to the page you are currently on.

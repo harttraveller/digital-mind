@@ -1,0 +1,1 @@
+An [[agent-convo]] page is one in which I adopt the viewpoint of differing agents with varied perspectives on a particular topic. This is an easy way to explore ideas because like most people, I'm essentially a collection of agents masquerading as a person.
